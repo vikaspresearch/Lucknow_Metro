@@ -1,0 +1,27 @@
+#name, percent, n, avrg, half length, lower ci endpoint, upper ci endpoint
+
+Count_trans_occur_accTrain'Acc_1_avrg_iid 90 4 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_accTrain'Acc_1_count_iid 90 4 1.750000 0.588250 2.338250 1.161750
+Count_trans_occur_accTrain'Acc_1_max_iid 90 4 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_accTrain'Acc_1_min_iid 90 4 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_accTrain'Acc_1_sum_iid 90 4 1.750000 0.588250 2.338250 1.161750
+Count_trans_occur_accTrain'Normal_RUN_1_avrg_iid 90 4 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_accTrain'Normal_RUN_1_count_iid 90 4 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_accTrain'Normal_RUN_1_max_iid 90 4 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_accTrain'Normal_RUN_1_min_iid 90 4 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_accTrain'Normal_RUN_1_sum_iid 90 4 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_daccTrain'Dacc_1_avrg_iid 90 4 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_daccTrain'Dacc_1_count_iid 90 4 2.500000 0.679253 3.179253 1.820747
+Count_trans_occur_daccTrain'Dacc_1_max_iid 90 4 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_daccTrain'Dacc_1_min_iid 90 4 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_daccTrain'Dacc_1_sum_iid 90 4 2.500000 0.679253 3.179253 1.820747
+Count_trans_occur_platformTrain'Platform_Depart_1_avrg_iid 90 4 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_platformTrain'Platform_Depart_1_count_iid 90 4 1.750000 0.588250 2.338250 1.161750
+Count_trans_occur_platformTrain'Platform_Depart_1_max_iid 90 4 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_platformTrain'Platform_Depart_1_min_iid 90 4 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_platformTrain'Platform_Depart_1_sum_iid 90 4 1.750000 0.588250 2.338250 1.161750
+Marking_size_main'S1T0U_Initilize_Train_1_avrg_iid 90 4 0.034314 0.011534 0.045848 0.022779
+Marking_size_main'S1T0U_Initilize_Train_1_count_iid 90 4 51.000000 0.000000 51.000000 51.000000
+Marking_size_main'S1T0U_Initilize_Train_1_max_iid 90 4 1.000000 0.000000 1.000000 1.000000
+Marking_size_main'S1T0U_Initilize_Train_1_min_iid 90 4 0.000000 0.000000 0.000000 0.000000
+Marking_size_main'S1T0U_Initilize_Train_1_sum_iid 90 4 1.750000 0.588250 2.338250 1.161750

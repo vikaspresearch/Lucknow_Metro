@@ -1,0 +1,12 @@
+digraph cpn_tools_graph {
+  N620 -> N728 [ label="A2301:620->728:station't2 1: {}" ];
+  N620 -> N727 [ label="A2300:620->727:station't1 1: {}" ];
+  N620 -> N726 [ label="A2299:620->726:InitPlatform'S_init_TT 2: {station_name="Amausi"}" ];
+  N620 -> N725 [ label="A2298:620->725:InitPlatform'Initilize_Selector 1: {t_no=2,train=("Metro2",80.0,0.0,0.0,0,0)}" ];
+  N620 -> N724 [ label="A2297:620->724:accTrain'Normal_RUN 1: {station=("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),t_no=1,train=("Metro1",80.0,16.4671577613,0.0,30,0),timetable=("Metro1",0,25,37,0)}" ];
+  N724 -> N877 [ label="A2786:724->877:station't2 1: {}" ];
+  N724 -> N876 [ label="A2785:724->876:station't1 1: {}" ];
+  N724 -> N875 [ label="A2784:724->875:InitPlatform'S_init_TT 2: {station_name="Amausi"}" ];
+  N724 -> N874 [ label="A2783:724->874:InitPlatform'Initilize_Selector 2: {t_no=1,train=("Metro1",80.0,16.4671577613,0.0,30,0)}" ];
+  N724 -> N873 [ label="A2782:724->873:InitPlatform'Initilize_Selector 1: {t_no=2,train=("Metro2",80.0,0.0,0.0,0,0)}" ];
+}

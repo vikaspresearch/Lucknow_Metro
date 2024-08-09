@@ -1,0 +1,27 @@
+#name, percent, n, avrg, half length, lower ci endpoint, upper ci endpoint
+
+Count_trans_occur_accTrain'Acc_1_avrg_iid 99 50 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_accTrain'Acc_1_count_iid 99 50 1.900000 0.115886 2.015886 1.784114
+Count_trans_occur_accTrain'Acc_1_max_iid 99 50 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_accTrain'Acc_1_min_iid 99 50 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_accTrain'Acc_1_sum_iid 99 50 1.900000 0.115886 2.015886 1.784114
+Count_trans_occur_accTrain'Normal_RUN_1_avrg_iid 99 50 0.940000 0.091738 1.031738 0.848262
+Count_trans_occur_accTrain'Normal_RUN_1_count_iid 99 50 1.020000 0.144328 1.164328 0.875672
+Count_trans_occur_accTrain'Normal_RUN_1_max_iid 99 50 0.940000 0.091738 1.031738 0.848262
+Count_trans_occur_accTrain'Normal_RUN_1_min_iid 99 50 0.940000 0.091738 1.031738 0.848262
+Count_trans_occur_accTrain'Normal_RUN_1_sum_iid 99 50 1.020000 0.144328 1.164328 0.875672
+Count_trans_occur_daccTrain'Dacc_1_avrg_iid 99 50 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_daccTrain'Dacc_1_count_iid 99 50 3.000000 0.000000 3.000000 3.000000
+Count_trans_occur_daccTrain'Dacc_1_max_iid 99 50 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_daccTrain'Dacc_1_min_iid 99 50 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_daccTrain'Dacc_1_sum_iid 99 50 3.000000 0.000000 3.000000 3.000000
+Count_trans_occur_platformTrain'Platform_Depart_1_avrg_iid 99 50 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_platformTrain'Platform_Depart_1_count_iid 99 50 2.200000 0.172752 2.372752 2.027248
+Count_trans_occur_platformTrain'Platform_Depart_1_max_iid 99 50 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_platformTrain'Platform_Depart_1_min_iid 99 50 1.000000 0.000000 1.000000 1.000000
+Count_trans_occur_platformTrain'Platform_Depart_1_sum_iid 99 50 2.200000 0.172752 2.372752 2.027248
+Marking_size_main'S1T0U_Initilize_Train_1_avrg_iid 99 50 0.065098 0.025503 0.090601 0.039595
+Marking_size_main'S1T0U_Initilize_Train_1_count_iid 99 50 51.000000 0.000000 51.000000 51.000000
+Marking_size_main'S1T0U_Initilize_Train_1_max_iid 99 50 0.960000 0.108160 1.068160 0.851840
+Marking_size_main'S1T0U_Initilize_Train_1_min_iid 99 50 0.000000 0.000000 0.000000 0.000000
+Marking_size_main'S1T0U_Initilize_Train_1_sum_iid 99 50 3.320000 1.300676 4.620676 2.019324

@@ -1,0 +1,6 @@
+% This file is used by to initialise
+% the packets on Send
+% (train name, top speed, current speed, distance traveled, time taken, direction), train number
+1`(("Metro1", 80.0, 0.0, 0.0, 0, 0),(1))++
+1`(("Metro2", 80.0, 0.0, 0.0, 0, 0),(2))++
+1`(("Metro3", 80.0, 0.0, 0.0, 0, 0),(3))

@@ -1,0 +1,10 @@
+digraph cpn_tools_graph {
+  N175 -> N231 [ label="A614:175->231:station't1 1: {}" ];
+  N175 -> N230 [ label="A613:175->230:InitPlatform'S_init_TT 2: {station_name="Amausi"}" ];
+  N175 -> N229 [ label="A612:175->229:InitPlatform'Initilize_Selector 1: {t_no=2,train=("Metro2",80.0,0.0,0.0,0,0)}" ];
+  N175 -> N228 [ label="A611:175->228:platformTrain'Platform_Depart 1: {station=("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),t_no=1,train=("Metro1",80.0,0.0,0.0,0,0),timetable=("Metro1",0,25,37,0),trainB=("Metro1",80.0,0.0,0.0,25,0),timetableB=("Metro1",0,25,37,0),stationB=("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),t_noB=1}" ];
+  N228 -> N294 [ label="A831:228->294:station't1 1: {}" ];
+  N228 -> N293 [ label="A830:228->293:InitPlatform'S_init_TT 2: {station_name="Amausi"}" ];
+  N228 -> N292 [ label="A829:228->292:InitPlatform'Initilize_Selector 1: {t_no=2,train=("Metro2",80.0,0.0,0.0,0,0)}" ];
+  N228 -> N291 [ label="A828:228->291:accTrain'Acc 1: {station=("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),t_no=1,train=("Metro1",80.0,0.0,0.0,25,0),timetable=("Metro1",0,25,37,0),trainB=("Metro1",80.0,16.4671577613,0.0,30,0),timetableB=("Metro1",0,25,37,0),stationB=("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),t_noB=1}" ];
+}

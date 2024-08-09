@@ -1,0 +1,3 @@
+digraph cpn_tools_graph {
+  N175 -> N228 [ label="A611:175->228:platformTrain'Platform_Depart 1: {station=("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),t_no=1,train=("Metro1",80.0,0.0,0.0,0,0),timetable=("Metro1",0,25,37,0),trainB=("Metro1",80.0,0.0,0.0,25,0),timetableB=("Metro1",0,25,37,0),stationB=("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),t_noB=1}" ];
+}

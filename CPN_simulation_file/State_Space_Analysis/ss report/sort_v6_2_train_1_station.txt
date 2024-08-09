@@ -1,0 +1,279 @@
+CPN Tools state space report for:
+/cygdrive/D/vikas/2023/lucknow_metro/simulationv2/lucknow_metro_new_final_2_small_v3.cpn
+Report generated: Fri Feb 16 15:42:51 2024
+
+
+ Statistics
+------------------------------------------------------------------------
+
+  State Space
+     Nodes:  575
+     Arcs:   1708
+     Secs:   0
+     Status: Full
+
+  Scc Graph
+     Nodes:  575
+     Arcs:   1708
+     Secs:   0
+
+
+ Boundedness Properties
+------------------------------------------------------------------------
+
+  Best Integer Bounds
+                             Upper      Lower
+     InitPlatform'Choose_Init 1
+                             1          0
+     InitPlatform'S0T0U_Initilized_Station_Data 1
+                             10         0
+     InitPlatform'S0T0U_Initilized_Timetable 1
+                             10         0
+     InitPlatform'S_Station_Init 1
+                             1          0
+     InitPlatform'S_TT_Init 1
+                             1          0
+     InitPlatform'Train_no_Selector 1
+                             1          1
+     accTrain'Acc_Started 1  1          0
+     accTrain'Direcion_OK 1  1          0
+     accTrain'Direction_Check 1
+                             1          0
+     accTrain'Platform_Check_Done_Depart 1
+                             2          0
+     accTrain'Speed_Check 1  1          0
+     accTrain'Speed_OK 1     1          0
+     accTrain'Time_Check 1   1          0
+     accTrain'Time_OK 1      1          0
+     accTrain'p03 1          1          0
+     accTrain'p13 1          1          0
+     daccTrain'DA_Comp 1     1          0
+     daccTrain'Direcion_OK 1 1          0
+     daccTrain'Direction_Check 1
+                             1          0
+     daccTrain'Speed_Check 1 1          0
+     daccTrain'Speed_OK 1    1          0
+     daccTrain'Time_Check 1  1          0
+     daccTrain'Time_OK 1     1          0
+     daccTrain'p00 1         1          0
+     daccTrain'p10 1         1          0
+     main'E 1                1          0
+     main'S0T0U_Initilize_Train 1
+                             2          0
+     main'S1T0U_Initilize_Train 1
+                             2          0
+     main'St_01 1            1          0
+     station'Platform_Check_Init_Arr 1
+                             1          0
+     station'Platform_Check_Init_Depart 1
+                             1          0
+     station'S0T0U_Selected_Train 1
+                             1          0
+     station'c0 1            1          0
+     station'c1 1            1          0
+     station'p00 1           1          0
+     station'p01 1           1          0
+     station'p03 1           1          0
+     station'p10 1           1          0
+     station'p11 1           1          0
+     station'p12 1           1          0
+     station'p13 1           1          0
+     station'po2 1           1          0
+
+  Best Upper Multi-set Bounds
+     InitPlatform'Choose_Init 1
+                         1`(("Metro1",80.0,0.0,0.0,0,0),1)++
+1`(("Metro2",80.0,0.0,0.0,0,0),2)
+     InitPlatform'S0T0U_Initilized_Station_Data 1
+                         1`(("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),1)++
+1`(("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),2)++
+1`(("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),3)++
+1`(("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),4)++
+1`(("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),5)++
+1`(("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),6)++
+1`(("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),7)++
+1`(("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),8)++
+1`(("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),9)++
+1`(("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),10)
+     InitPlatform'S0T0U_Initilized_Timetable 1
+                         1`(("Metro1",0,25,37,0),1)++
+1`(("Metro10",1350,1375,1387,0),10)++
+1`(("Metro2",150,175,187,0),2)++
+1`(("Metro3",300,325,337,0),3)++
+1`(("Metro4",450,475,487,0),4)++
+1`(("Metro5",600,625,637,0),5)++
+1`(("Metro6",750,775,787,0),6)++
+1`(("Metro7",900,925,937,0),7)++
+1`(("Metro8",1050,1075,1087,0),8)++
+1`(("Metro9",1200,1225,1237,0),9)
+     InitPlatform'S_Station_Init 1
+                         1`"CCS Airport"
+     InitPlatform'S_TT_Init 1
+                         1`"CCS Airport"
+     InitPlatform'Train_no_Selector 1
+                         1`1++
+1`2++
+1`3
+     accTrain'Acc_Started 1
+                         1`(("Metro1",80.0,16.4671577613,0.0,30,0),("Metro1",0,25,37,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),1)++
+1`(("Metro2",80.0,16.4671577613,0.0,180,0),("Metro2",150,175,187,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),2)
+     accTrain'Direcion_OK 1
+                         1`(("Metro1",80.0,16.4671577613,0.0,30,0),("Metro1",0,25,37,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),1)++
+1`(("Metro2",80.0,16.4671577613,0.0,180,0),("Metro2",150,175,187,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),2)
+     accTrain'Direction_Check 1
+                         1`(("Metro1",80.0,16.4671577613,0.0,30,0),("Metro1",0,25,37,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),1)++
+1`(("Metro2",80.0,16.4671577613,0.0,180,0),("Metro2",150,175,187,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),2)
+     accTrain'Platform_Check_Done_Depart 1
+                         1`(("Metro1",80.0,16.4671577613,0.0,30,0),("Metro1",0,25,37,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),1)++
+1`(("Metro2",80.0,16.4671577613,0.0,180,0),("Metro2",150,175,187,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),2)
+     accTrain'Speed_Check 1
+                         1`(("Metro1",80.0,16.4671577613,0.0,30,0),("Metro1",0,25,37,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),1)++
+1`(("Metro2",80.0,16.4671577613,0.0,180,0),("Metro2",150,175,187,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),2)
+     accTrain'Speed_OK 1 1`(("Metro1",80.0,16.4671577613,0.0,30,0),("Metro1",0,25,37,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),1)++
+1`(("Metro2",80.0,16.4671577613,0.0,180,0),("Metro2",150,175,187,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),2)
+     accTrain'Time_Check 1
+                         1`(("Metro1",80.0,16.4671577613,0.0,30,0),("Metro1",0,25,37,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),1)++
+1`(("Metro2",80.0,16.4671577613,0.0,180,0),("Metro2",150,175,187,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),2)
+     accTrain'Time_OK 1  1`(("Metro1",80.0,16.4671577613,0.0,30,0),("Metro1",0,25,37,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),1)++
+1`(("Metro2",80.0,16.4671577613,0.0,180,0),("Metro2",150,175,187,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),2)
+     accTrain'p03 1      1`e
+     accTrain'p13 1      1`e
+     daccTrain'DA_Comp 1 1`(("Metro1",80.0,15.552,0.0,0,0),("Metro1",0,25,37,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),1)++
+1`(("Metro2",80.0,15.552,0.0,0,0),("Metro2",150,175,187,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),2)
+     daccTrain'Direcion_OK 1
+                         1`(("Metro1",80.0,15.552,0.0,0,0),("Metro1",0,25,37,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),1)++
+1`(("Metro2",80.0,15.552,0.0,0,0),("Metro2",150,175,187,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),2)
+     daccTrain'Direction_Check 1
+                         1`(("Metro1",80.0,15.552,0.0,0,0),("Metro1",0,25,37,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),1)++
+1`(("Metro2",80.0,15.552,0.0,0,0),("Metro2",150,175,187,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),2)
+     daccTrain'Speed_Check 1
+                         1`(("Metro1",80.0,15.552,0.0,0,0),("Metro1",0,25,37,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),1)++
+1`(("Metro2",80.0,15.552,0.0,0,0),("Metro2",150,175,187,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),2)
+     daccTrain'Speed_OK 1
+                         1`(("Metro1",80.0,15.552,0.0,0,0),("Metro1",0,25,37,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),1)++
+1`(("Metro2",80.0,15.552,0.0,0,0),("Metro2",150,175,187,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),2)
+     daccTrain'Time_Check 1
+                         1`(("Metro1",80.0,15.552,0.0,0,0),("Metro1",0,25,37,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),1)++
+1`(("Metro2",80.0,15.552,0.0,0,0),("Metro2",150,175,187,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),2)
+     daccTrain'Time_OK 1 1`(("Metro1",80.0,15.552,0.0,0,0),("Metro1",0,25,37,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),1)++
+1`(("Metro2",80.0,15.552,0.0,0,0),("Metro2",150,175,187,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),2)
+     daccTrain'p00 1     1`e
+     daccTrain'p10 1     1`e
+     main'E 1            1`e
+     main'S0T0U_Initilize_Train 1
+                         1`(("Metro1",80.0,0.0,0.0,0,0),1)++
+1`(("Metro2",80.0,0.0,0.0,0,0),2)
+     main'S1T0U_Initilize_Train 1
+                         1`(("Metro1",80.0,16.4671577613,0.0,30,0),1)++
+1`(("Metro2",80.0,16.4671577613,0.0,180,0),2)
+     main'St_01 1        1`"CCS Airport"
+     station'Platform_Check_Init_Arr 1
+                         1`(("Metro1",80.0,0.0,0.0,0,0),("Metro1",0,25,37,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),1)++
+1`(("Metro2",80.0,0.0,0.0,0,0),("Metro2",150,175,187,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),2)
+     station'Platform_Check_Init_Depart 1
+                         1`(("Metro1",80.0,0.0,0.0,25,0),("Metro1",0,25,37,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),1)++
+1`(("Metro2",80.0,0.0,0.0,175,0),("Metro2",150,175,187,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),2)
+     station'S0T0U_Selected_Train 1
+                         1`(("Metro1",80.0,0.0,0.0,0,0),("Metro1",0,25,37,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),1)++
+1`(("Metro2",80.0,0.0,0.0,0,0),("Metro2",150,175,187,0),("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),2)
+     station'c0 1        1`e
+     station'c1 1        1`e
+     station'p00 1       1`e
+     station'p01 1       1`e
+     station'p03 1       1`e
+     station'p10 1       1`e
+     station'p11 1       1`e
+     station'p12 1       1`e
+     station'p13 1       1`e
+     station'po2 1       1`e
+
+  Best Lower Multi-set Bounds
+     InitPlatform'Choose_Init 1
+                         empty
+     InitPlatform'S0T0U_Initilized_Station_Data 1
+                         empty
+     InitPlatform'S0T0U_Initilized_Timetable 1
+                         empty
+     InitPlatform'S_Station_Init 1
+                         empty
+     InitPlatform'S_TT_Init 1
+                         empty
+     InitPlatform'Train_no_Selector 1
+                         empty
+     accTrain'Acc_Started 1
+                         empty
+     accTrain'Direcion_OK 1
+                         empty
+     accTrain'Direction_Check 1
+                         empty
+     accTrain'Platform_Check_Done_Depart 1
+                         empty
+     accTrain'Speed_Check 1
+                         empty
+     accTrain'Speed_OK 1 empty
+     accTrain'Time_Check 1
+                         empty
+     accTrain'Time_OK 1  empty
+     accTrain'p03 1      empty
+     accTrain'p13 1      empty
+     daccTrain'DA_Comp 1 empty
+     daccTrain'Direcion_OK 1
+                         empty
+     daccTrain'Direction_Check 1
+                         empty
+     daccTrain'Speed_Check 1
+                         empty
+     daccTrain'Speed_OK 1
+                         empty
+     daccTrain'Time_Check 1
+                         empty
+     daccTrain'Time_OK 1 empty
+     daccTrain'p00 1     empty
+     daccTrain'p10 1     empty
+     main'E 1            empty
+     main'S0T0U_Initilize_Train 1
+                         empty
+     main'S1T0U_Initilize_Train 1
+                         empty
+     main'St_01 1        empty
+     station'Platform_Check_Init_Arr 1
+                         empty
+     station'Platform_Check_Init_Depart 1
+                         empty
+     station'S0T0U_Selected_Train 1
+                         empty
+     station'c0 1        empty
+     station'c1 1        empty
+     station'p00 1       empty
+     station'p01 1       empty
+     station'p03 1       empty
+     station'p10 1       empty
+     station'p11 1       empty
+     station'p12 1       empty
+     station'p13 1       empty
+     station'po2 1       empty
+
+
+ Home Properties
+------------------------------------------------------------------------
+
+  Home Markings
+     [575]
+
+
+ Liveness Properties
+------------------------------------------------------------------------
+
+  Dead Markings
+     [575]
+
+  Dead Transition Instances
+     None
+
+  Live Transition Instances
+     None
+
+
+ Fairness Properties
+------------------------------------------------------------------------
+     No infinite occurrence sequences.

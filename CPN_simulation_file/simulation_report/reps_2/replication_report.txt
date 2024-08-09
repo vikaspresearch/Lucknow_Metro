@@ -1,0 +1,84 @@
+CPN Tools report for simulation replications
+Net: /cygdrive/D/vikas/2023/lucknow_metro/simulationv2/lucknow_metro_new_final_2_small_v3.cpn
+Output directory: /cygdrive/D/vikas/2023/lucknow_metro/simulationv2/simulation_report/reps_2
+
+Simulation no.: 1
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 2
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 3
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 4
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 5
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 6
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 7
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 8
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 9
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 10
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+

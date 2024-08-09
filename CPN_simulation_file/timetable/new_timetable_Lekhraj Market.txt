@@ -1,0 +1,13 @@
+% This file is used by to initialise
+% the train timetable for station
+%%(name, timeHome, timeStation, timeStarter, direction), train number
+1`(("Metro1",2071,2101,2113,0),1)++
+1`(("Metro2",2221,2251,2263,0),2)++
+1`(("Metro3",2371,2401,2413,0),3)++
+1`(("Metro4",2521,2551,2563,0),4)++
+1`(("Metro5",2671,2701,2713,0),5)++
+1`(("Metro6",2821,2851,2863,0),6)++
+1`(("Metro7",2971,3001,3013,0),7)++
+1`(("Metro8",3121,3151,3163,0),8)++
+1`(("Metro9",3271,3301,3313,0),9)++
+1`(("Metro10",3421,3451,3463,0),10)

@@ -1,0 +1,404 @@
+CPN Tools report for simulation replications
+Net: /cygdrive/D/vikas/2023/lucknow_metro/simulationv2/lucknow_metro_new_final_2_small_v3.cpn
+Output directory: /cygdrive/D/vikas/2023/lucknow_metro/simulationv2/simulation_report/reps_4
+
+Simulation no.: 1
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 2
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 3
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 4
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 5
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 6
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 7
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 8
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 9
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 10
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 11
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 12
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 13
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 14
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 15
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 16
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 17
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 18
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 19
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 20
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 21
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 22
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 23
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 24
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 25
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 26
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 27
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 28
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 29
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 30
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 31
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 32
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 33
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 34
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 35
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 36
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 37
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 38
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 39
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 40
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 41
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 42
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 43
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 44
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 45
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 46
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 47
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 48
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 49
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 50
+Steps.........: 50
+Model time....: 0
+Stop reason...: The following stop criteria are fulfilled:
+ - Additional Steps 50
+Time to run simulation: 0 seconds
+
+

@@ -1,0 +1,21 @@
+reset
+load "gnuplot/Count_trans_occur_accTrain'Normal_RUN_1.gpl"
+pause -1 "Count_trans_occur_accTrain'Normal_RUN_1"
+
+reset
+load "gnuplot/Count_trans_occur_platformTrain'Platform_Depart_1.gpl"
+pause -1 "Count_trans_occur_platformTrain'Platform_Depart_1"
+
+reset
+load "gnuplot/Count_trans_occur_daccTrain'Dacc_1.gpl"
+pause -1 "Count_trans_occur_daccTrain'Dacc_1"
+
+reset
+load "gnuplot/Marking_size_main'S1T0U_Initilize_Train_1.gpl"
+pause -1 "Marking_size_main'S1T0U_Initilize_Train_1"
+
+reset
+load "gnuplot/Count_trans_occur_accTrain'Acc_1.gpl"
+pause -1 "Count_trans_occur_accTrain'Acc_1"
+
+pause -1 "Done"

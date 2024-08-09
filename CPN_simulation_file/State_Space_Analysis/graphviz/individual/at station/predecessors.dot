@@ -1,0 +1,4 @@
+digraph cpn_tools_graph {
+  N135 -> N175 [ label="A443:135->175:daccTrain'Platform_Arrived 1: {station=("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),t_no=1,train=("Metro1",80.0,15.552,0.0,0,0),timetable=("Metro1",0,25,37,0),trainB=("Metro1",80.0,0.0,0.0,0,0),timetableB=("Metro1",0,25,37,0),stationB=("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),t_noB=1}" ];
+  N175 -> N228 [ label="A611:175->228:platformTrain'Platform_Depart 1: {station=("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),t_no=1,train=("Metro1",80.0,0.0,0.0,0,0),timetable=("Metro1",0,25,37,0),trainB=("Metro1",80.0,0.0,0.0,25,0),timetableB=("Metro1",0,25,37,0),stationB=("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),t_noB=1}" ];
+}

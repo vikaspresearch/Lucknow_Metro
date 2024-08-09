@@ -1,0 +1,4 @@
+digraph cpn_tools_graph {
+  N546 -> N620 [ label="A1978:546->620:accTrain'Platform_Departed 1: {station=("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),t_no=1,train=("Metro1",80.0,16.4671577613,0.0,30,0),timetable=("Metro1",0,25,37,0)}" ];
+  N620 -> N724 [ label="A2297:620->724:accTrain'Normal_RUN 1: {station=("CCS Airport",0.0,807.23,32.0,85.0,1.0,1.2),t_no=1,train=("Metro1",80.0,16.4671577613,0.0,30,0),timetable=("Metro1",0,25,37,0)}" ];
+}
